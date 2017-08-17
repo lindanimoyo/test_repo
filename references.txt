@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
 
 mnnmy new reference,  Lindani Moys
 linfaninshatsa
+=======
+my new reference,  Lindani Moys
+
+adding cooming and pushing
+
+
